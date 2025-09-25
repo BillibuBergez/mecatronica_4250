@@ -1,5 +1,14 @@
-# Mecatrónica [4250]
+# Mecatrónica [4250] - Robor Auto-Balancín
 
-Se realizan los avances de la primera presentación y entrega del curso relacionado al proyecto del ****Robot Auto-Balancín****, que corresponde a los días 22 y 23 de septiembre del 2025. Estos avances iniciales son para ver el tema de la elección de los motores y los primeros prototipos, cabe mencionar que es importante destacra que en el transcurso del curso se va aprendiendo de los componentes, por lo que no necesariamente serían los ideales para el objetivo.  Para ello, se realiza el primer avance que se encuentra en la carpeta ****avance_1****, donde se encuentran dos ensambles, el primero incompleto y el segundo el definitivo.
+## Presentación 1 [22 de Septiembre]
 
-Además del código para mover las ruedas, que se encuentra en un lenguaje adecuado para correr en arduino.
+La carpeta **avance 1** corresponden a los avances iniciales que corresponden a los relacionados a la presentación 1.
+- Se consideran los prototipos iniciales, particularmente son 2, donde el segundo sería el que finalmente se decidió continuar. Aunque proximamente se seguirán evaluando posibles mejoras en función de lo solicitado.
+- Viene incorporado el código asociado al movimiento de las ruedas, que corresponde a un código asociado al movimiento de los **motores DC** que son lo que finalmente se utilizan en el último prototipo
+- Se observan posibles mejoras:
+  - Incorporar un material rugoso para las ruedas.
+  - Incorporar soportes a ciertas zonas críticas donde sean propensas al fallo ante impactos.
+  - Utilizar motor motorreductor (el amarrillo) por ser liviano y buena relación torque velocidad angular (dada la función).
+  
+  
+
