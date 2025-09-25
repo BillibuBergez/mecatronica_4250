@@ -1,14 +1,16 @@
-# Mecatrónica [4250] - Robor Auto-Balancín
+# Mecatrónica [4250] - Robot Auto-Balancín
 
 ## Presentación 1 [22 de Septiembre]
 
-La carpeta **avance 1** corresponden a los avances iniciales que corresponden a los relacionados a la presentación 1.
-- Se consideran los prototipos iniciales, particularmente son 2, donde el segundo sería el que finalmente se decidió continuar. Aunque proximamente se seguirán evaluando posibles mejoras en función de lo solicitado.
-- Viene incorporado el código asociado al movimiento de las ruedas, que corresponde a un código asociado al movimiento de los **motores DC** que son lo que finalmente se utilizan en el último prototipo
-- Se observan posibles mejoras:
-  - Incorporar un material rugoso para las ruedas.
-  - Incorporar soportes a ciertas zonas críticas donde sean propensas al fallo ante impactos.
-  - Utilizar motor motorreductor (el amarrillo) por ser liviano y buena relación torque velocidad angular (dada la función).
-  
-  
+La carpeta **avance_1** corresponde a los avances iniciales relacionados con la primera presentación.
 
+### Contenido del avance:
+- **Prototipos iniciales**: Se desarrollaron dos prototipos, siendo el segundo el seleccionado para continuar el desarrollo. Próximamente se evaluarán mejoras adicionales según los requerimientos.
+- **Código de movimiento**: Se incluye el programa para el control de movimiento de las ruedas, específicamente diseñado para los **motores DC** del prototipo final.
+
+### Observaciones y mejoras identificadas:
+- **Material de las ruedas**: Implementar un material rugoso para mejorar la tracción
+- **Refuerzos estructurales**: Añadir soportes en zonas críticas susceptibles a daños por impactos
+- **Optimización del motor**: Utilizar el motorreductor amarillo por su ligereza y favorable relación torque/velocidad angular
+
+**Nota**: Esta versión mantiene el formato solicitado con viñetas y estructura similar al original.
