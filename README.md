@@ -12,5 +12,3 @@ La carpeta **avance_1** corresponde a los avances iniciales relacionados con la 
 - **Material de las ruedas**: Implementar un material rugoso para mejorar la tracción
 - **Refuerzos estructurales**: Añadir soportes en zonas críticas susceptibles a daños por impactos
 - **Optimización del motor**: Utilizar el motorreductor amarillo por su ligereza y favorable relación torque/velocidad angular
-
-**Nota**: Esta versión mantiene el formato solicitado con viñetas y estructura similar al original.
