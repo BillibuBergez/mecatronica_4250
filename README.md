@@ -2,7 +2,7 @@
 
 ## Presentación 1 [22 de Septiembre]
 
-La carpeta **avance_1** corresponde a los avances iniciales relacionados con la primera presentación.
+La carpeta [**avance_1**](avance_1) corresponde a los avances iniciales relacionados con la primera presentación.
 
 ### Contenido del avance:
 - **Prototipos iniciales**: Se desarrollaron dos prototipos, siendo el segundo el seleccionado para continuar el desarrollo. Próximamente se evaluarán mejoras adicionales según los requerimientos.
