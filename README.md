@@ -13,5 +13,5 @@ La carpeta [**avance_1**](avance_1) corresponde a los avances iniciales relacion
 - **Refuerzos estructurales**: Añadir soportes en zonas críticas susceptibles a daños por impactos
 - **Optimización del motor**: Utilizar el motorreductor amarillo por su ligereza y favorable relación torque/velocidad angular
 
-## Presentación 2 [19 de Octubre]
+## Presentación 2 [20 de Octubre]
 
