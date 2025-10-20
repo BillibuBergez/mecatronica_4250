@@ -15,3 +15,26 @@ La carpeta [**avance_1**](avance_1) corresponde a los avances iniciales relacion
 
 ## Presentación 2 [20 de Octubre]
 
+La carpeta [**avance_2**](avance_2) corresponde a los avances para la segunda entrega del curso, donde se realizan varios cambios y avances, tanto en el diseño, como la incorporación de componentes y el código.
+
+### Contenido del avance:
+
+- **Cambio de Diseño:** Se realizó una revisión completa del diseño inicial, implementando mejoras sustanciales en la configuración mecánica y electrónica del sistema.
+
+- **Sistema de Propulsión:** Se incorporaron motores DC con caja reductora ("motores amarillos"), seleccionados por su óptima relación torque-velocidad angular y mayor eficiencia energética para aplicaciones de balanceo.
+
+- **Configuración Mecánica:**
+  - Se implementó montaje con separadores para evitar interferencias con componentes soldados
+  - Se adoptó diseño estructural abierto que minimiza uso de material, mejora ventilación y facilita acceso al cableado
+
+- **Electrónica del Sistema:**
+  - Control de motores mediante puente H L298N
+  - Sensor de movimiento: Módulo GY-521 (MPU-6050)
+  - Unidad de control: Arduino Uno
+  - Alimentación: Banco de baterías de 12V CC
+
+- **Ventajas del Nuevo Diseño:**
+  - Mayor eficiencia energética
+  - Mejor disipación térmica
+  - Accesibilidad para mantenimiento
+  - Optimización de peso y materiales
