@@ -12,7 +12,7 @@ void setup() {
   pinMode(PinIN3, OUTPUT);
   pinMode(PinIN4, OUTPUT);
 }
- 
+// Este loop es sólo para demostrar el funcionamiento de las funciones definidas
 void loop() {
   
   MotorHorario();
