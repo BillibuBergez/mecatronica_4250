@@ -17,7 +17,7 @@ La carpeta [**avance_1**](avance_1) corresponde a los avances iniciales relacion
 ### Contenido del avance:
 - **Prototipos iniciales**: Se desarrollaron dos prototipos, siendo el segundo el seleccionado para continuar el desarrollo. Próximamente se evaluarán mejoras adicionales según los requerimientos.
 
-<img src="img/11.jpeg" alt="Render del robot" width="400">
+<img src="img/11.jpeg" alt="Render del robot" width="400"><img src="img/1.jpeg" alt="Render del robot" width="400">
 
 - **Código de movimiento**: Se incluye el programa para el control de movimiento de las ruedas, específicamente diseñado para los **motores DC** del prototipo final.
 
