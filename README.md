@@ -1,5 +1,9 @@
 # Mecatrónica [4250] - Robot Auto-Balancín
 
+## Objetivos
+
+Los objetivos corresponden a la construcción de un robot autobalancín con componentes básicos y la implementación de PID. Todas las especificaciones se encuentran en el archivo [**base**](base/base.pdf)
+
 ## Presentación 1 [22 de Septiembre]
 
 La carpeta [**avance_1**](avance_1) corresponde a los avances iniciales relacionados con la primera presentación.
