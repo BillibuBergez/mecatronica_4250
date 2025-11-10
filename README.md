@@ -1,33 +1,35 @@
-
-
 # Mecatrónica [4250] - Robot Auto-Balancín
 
-## Indice de Contenidos
-- [Objetivos](##Objetivos)
-- [Avance 1](##Avance-1)
-- [Avance 2](##Avance-2)
+## Índice de Contenidos
+- [Objetivos](#objetivos)
+- [Avance 1](#avance-1)
+- [Avance 2](#avance-2)
+- [Avance 3](#avance-3)
 
 ## Objetivos
 
-El objetivo principal de este proyecto es el diseño y la construcción de un robot autobalancín funcional. El núcleo del desafío consiste en la implementación de un controlador **PID (Proporcional-Integral-Derivativo)** para mantener el equilibrio dinámico del sistema.
+El objetivo principal de este proyecto es el diseño y construcción de un robot autobalancín funcional. El núcleo del desafío consiste en implementar un controlador **PID (Proporcional-Integral-Derivativo)** para mantener el equilibrio dinámico del sistema.
 
-Para lograr esto, se integrarán componentes mecatrónicos esenciales, utilizando un microcontrolador **Arduino UNO** como unidad central de procesamiento. Este gestionará la lógica de control programada en C++ y la comunicación entre los sensores (encargados de medir la inclinación) y los actuadores (motores DC seleccionados para las ruedas). Además, el proyecto incluye el diseño de una **estética original y atractiva**, como parte de los requerimientos.
+Para lograr este objetivo, se integrarán componentes mecatrónicos esenciales utilizando un microcontrolador **Arduino UNO** como unidad central de procesamiento. Este gestionará la lógica de control programada en C++ y la comunicación entre los sensores (encargados de medir la inclinación) y los actuadores (motores DC seleccionados para las ruedas). Además, el proyecto incluye el diseño de una **estética original y atractiva** como parte de los requerimientos.
 
-Es importante definir el alcance: el foco está puesto en la **integración exitosa de los componentes** y en la **demostración de un sistema de autobalanceo funcional**, más que en la optimización de la eficiencia o el rendimiento del diseño. Por lo tanto, aunque el prototipo pueda presentar ciertas ineficiencias, el objetivo se centra en la aplicación práctica de los conceptos de control.
+Es importante definir que el alcance del proyecto se centra en la **integración exitosa de los componentes** y en la **demostración de un sistema de autobalanceo funcional**, priorizando esto sobre la optimización de la eficiencia o el rendimiento del diseño. Por lo tanto, aunque el prototipo pueda presentar ciertas ineficiencias, el objetivo principal radica en la aplicación práctica de los conceptos de control.
 
-Todas las especificaciones y requerimientos de diseño se encuentran detallados en el documento [**Base**](base.pdf).
+Todas las especificaciones y requerimientos de diseño se detallan en el documento [**Base**](base.pdf).
 
 ## Avance 1
 
-La carpeta [**avance_1**](avance_1) corresponde a los avances iniciales relacionados con la primera presentación. Donde en esta se inicia con el proyecto, donde se busca obtener la base del robot con las ruedas y motores implementados, además de unos soportes para resistir los impactos al momento de cae especialmente en las primeras etapas del prototipo. Se realiza una presentación al respecto en el archivo [**Presentación**](avance_1/Presentación.pdf). Se imprime utilizando una impresora 3D, utilizando un material de PLA.
+La carpeta [**avance_1**](avance_1) contiene los avances iniciales correspondientes a la primera presentación. En esta etapa se establecieron las bases del robot, implementando las ruedas y motores, junto con soportes diseñados para resistir impactos durante las primeras fases de desarrollo del prototipo. La documentación de esta fase se presenta en el archivo [**Presentación**](avance_1/Presentación.pdf). Las piezas se fabricaron mediante impresión 3D utilizando material PLA.
 
 ### Contenido del avance:
-- **Prototipos iniciales**: Se desarrollaron dos prototipos, siendo el segundo el seleccionado para continuar el desarrollo. Próximamente se evaluarán mejoras adicionales según los requerimientos.
 
-<center><img src="img/11.jpeg" alt="Prototipo Inicial 1" width="400">
+- **Prototipos iniciales**: Se desarrollaron dos prototipos, seleccionando el segundo para continuar con el desarrollo. Posteriormente se evaluarán mejoras adicionales según los requerimientos.
+
+<center>
+<img src="img/11.jpeg" alt="Prototipo Inicial 1" width="400">
 <img src="img/1.jpeg" alt="Prototipo Inicial 2" width="400">
+</center>
 
-- **Código de movimiento**: Se incluye el programa para el control de movimiento de las ruedas, específicamente diseñado para los **motores DC** del prototipo seleccionado.
+- **Código de movimiento**: Se implementó un programa para el control de movimiento de las ruedas, específicamente diseñado para los **motores DC** del prototipo seleccionado.
 
 ```cpp
 #include <Stepper.h>
@@ -63,15 +65,18 @@ void loop() {
 ```
 
 ### Observaciones y mejoras identificadas:
-- **Material de las ruedas**: Implementar un material rugoso para mejorar la tracción
-- **Refuerzos estructurales**: Añadir soportes en zonas críticas susceptibles a daños por impactos
-- **Optimización del motor**: Utilizar el motorreductor amarillo por su ligereza y favorable relación torque/velocidad angular.
 
-<img src="img/reductora.jpg" alt="Motor con Recuctora" width="400">
+- **Material de las ruedas**: Se recomienda implementar un material rugoso para mejorar la tracción
+- **Refuerzos estructurales**: Es necesario añadir soportes en zonas críticas susceptibles a daños por impactos
+- **Optimización del motor**: Se propone utilizar el motorreductor amarillo por su ligereza y favorable relación torque/velocidad angular
 
+<img src="img/reductora.jpg" alt="Motor con Reductora" width="400">
 
 ## Avance 2
-La carpeta [**avance_2**](avance_2) corresponde a los avances para la segunda entrega del curso, donde se realizan varios cambios y avances, tanto en el diseño, como la incorporación de componentes y el código. Dentro del diseño estetico se elige a un personaje curioso de la pelicula de Cars, nuestro querido personaje ¡Guido!, que nos pareción ideal y atractivo (*no es que inicialmente queríamos R2D2*), sin embargo posteriormente se incorporará para la carcasa con su respectivo diseño. Además, se realiza una presentación para mostrar los avances de este apartado, esto se encuentra en [**Presentación 2**](avance_2/presentación2.pdf).
+
+La carpeta [**avance_2**](avance_2) documenta los progresos correspondientes a la segunda entrega del curso, donde se implementaron cambios significativos tanto en el diseño como en la incorporación de componentes y código. 
+
+En cuanto al diseño estético, se seleccionó al personaje **Guido** de la película Cars, considerándolo ideal y atractivo para el proyecto (*inicialmente se contempló R2D2*). Posteriormente se desarrollará una carcasa personalizada con este diseño. La presentación de estos avances se encuentra en [**Presentación 2**](avance_2/presentación2.pdf).
 
 <img src="img/guido.png" alt="Guido" width="400">
 
@@ -79,32 +84,34 @@ La carpeta [**avance_2**](avance_2) corresponde a los avances para la segunda en
 
 <img src="img/21.jpeg" alt="Prototipo 2" width="400">
 
-- **Cambio de Diseño:** Se realizó una revisión completa del diseño inicial, implementando mejoras sustanciales en la configuración mecánica y electrónica del sistema. Donde se incorpora un portapilas, particularmente cada una de ellas de unos 4 volteos en serie, siendo un total de 12 volteos aproximadamente, más que suficiente para un correcto funcionamiento del sistema. Además se incorpora un sistema de sensibilidad dado por un giroscopio que permite generar información sobre la inclinación del sistema que posteriormente se utilizará ára que úeda autorregularse a través de un PID.
+- **Cambio de Diseño**: Se realizó una revisión completa del diseño inicial, implementando mejoras sustanciales en la configuración mecánica y electrónica del sistema. Se incorporó un portapilas que utiliza cuatro baterías en serie, totalizando aproximadamente 12 voltios, suficiente para el correcto funcionamiento del sistema. Además, se integró un giroscopio que proporciona información sobre la inclinación del sistema, la cual se utilizará posteriormente para la autorregulación mediante un controlador PID.
 
-- **Sistema de Propulsión:** Se incorporaron motores DC con caja reductora ("motores amarillos"), seleccionados por su óptima relación torque-velocidad angular y mayor eficiencia energética para aplicaciones de balanceo.
+- **Sistema de Propulsión**: Se incorporaron motores DC con caja reductora ("motores amarillos"), seleccionados por su óptima relación torque-velocidad angular y mayor eficiencia energética para aplicaciones de balanceo.
 
-- **Configuración Mecánica:**
-  - Se implementó montaje con separadores para evitar interferencias con componentes soldados
-  - Se adoptó diseño estructural abierto que minimiza uso de material, mejora ventilación y facilita acceso al cableado
+- **Configuración Mecánica**:
+  - Implementación de montaje con separadores para evitar interferencias con componentes soldados
+  - Adopción de diseño estructural abierto que minimiza el uso de material, mejora la ventilación y facilita el acceso al cableado
 
-- **Electrónica del Sistema:**
+- **Electrónica del Sistema**:
   - Control de motores mediante puente H L298N
   - Sensor de movimiento: Módulo GY-521 (MPU-6050)
   - Unidad de control: Arduino Uno
   - Alimentación: Banco de baterías de 12V CC
 
-<img src="img/h.jpg" alt="Puente H" width="400">  <img src="img/gyro.jpg" alt="Gyroscopio" width="400">  
-<img src="img/arduino.jpg" alt="Arduino Uno" width="400">  <img src="img/soporte.jpeg" alt="Soporte de Pilas" width="400">  
+<img src="img/h.jpg" alt="Puente H" width="400">
+<img src="img/gyro.jpg" alt="Gyroscopio" width="400">
+<img src="img/arduino.jpg" alt="Arduino Uno" width="400">
+<img src="img/soporte.jpeg" alt="Soporte de Pilas" width="400">
 
-- **Ventajas del Nuevo Diseño:**
+- **Ventajas del Nuevo Diseño**:
   - Mayor eficiencia energética
   - Mejor disipación térmica
   - Accesibilidad para mantenimiento
   - Optimización de peso y materiales
 
-- **Código de Movimiento**
+- **Código de Movimiento**:
 
-Aquí se incorporan códifos y funciones relacionadas al movimeinto de los motores para permitir el movimiento de las ruedas en función de lo que uno vaya necesitando o para más adelante reaccionar en función de lo que arroge el sensor y permita un PID funcional que permita el equilibrio.
+Se implementaron funciones para controlar el movimiento de los motores, permitiendo el giro de las ruedas en diferentes direcciones. Este código servirá como base para la implementación futura del control PID que permitirá el equilibrio del robot.
 
 ```cpp
 const int PinIN1 = 7;
@@ -165,9 +172,10 @@ void MotorStop()
   digitalWrite (PinIN4, LOW);
 }
 ```
-- **Código de Sensor**
 
-Este código no es modificado y es el entregado en clases, que corresponde a la acción del sensor y la respuesta que arroja.
+- **Código del Sensor**:
+
+Se utilizó el código proporcionado en clases para la lectura del sensor MPU-6050, que proporciona los datos de orientación necesarios para el sistema de control.
 
 ```cpp
 #include <Wire.h>
@@ -265,10 +273,13 @@ void calibrateGyro() {
   gy_offset = sumY / samples;
   gz_offset = sumZ / samples;
 }
-
 ```
- 
+
 ### Posibles Mejoras
-Mencionar que es importante la implementación de un switch para que las baterías no estén en constante consumo. Y permitir prender o apagar como sea convenienteLas fijaciones a presión parecen ser adecuadas, pero sólo óptimas para un prototipo final, pues no permite desarmar. Una implementación modular podría ser una mejora a considerar.
- 
+
+- **Interruptor de alimentación**: Es importante implementar un switch para evitar el consumo constante de las baterías, permitiendo encender y apagar el sistema según sea conveniente
+- **Sistema de fijación**: Las fijaciones a presión son adecuadas para el prototipo actual, pero una implementación modular podría ser una mejora a considerar para el prototipo final, facilitando el desarme y mantenimiento
+
 ## Avance 3 [11 de Noviembre]
+
+*[Contenido pendiente por desarrollar]*
