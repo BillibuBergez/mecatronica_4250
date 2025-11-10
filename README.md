@@ -1,4 +1,4 @@
-_TOC_
+__TOC__
 
 # Mecatrónica [4250] - Robot Auto-Balancín
 
