@@ -1,11 +1,6 @@
-# Mecatrónica [4250] - Robot Auto-Balancín
+[[_TOC_]]
 
-## Indice de Contenidos
-- [Objetivos](##Objetivos)
-- [Avance 1](##Avance-1:-22-de-Septiembre)
-- []()
-- []()
-- []()
+# Mecatrónica [4250] - Robot Auto-Balancín
 
 ## Objetivos
 
