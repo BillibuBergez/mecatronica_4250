@@ -4,7 +4,7 @@
 
 El objetivo principal de este proyecto es el diseño y la construcción de un robot autobalancín. Esto involucra la implementación de un controlador PID (Proporcional-Integral-Derivativo) para mantener el equilibrio dinámico del sistema, utilizando componentes electrónicos y estructurales básico. Estos componentes en general consisten a componentes mecátronicos esenciales como un ccontrolador, particualemten un Arduino UNO para nuestro proyecto, la selección de motores DC para las ruedas y una selección adecuada dado el objetivo, además de la selección de un diseño estetico para darle un toque original y atractivo al proyecto. Importante mencionar que no está dentro de los objetivos la optimización y eficiencia del diseño, por lo que es posible detectar ciertas ineficiencias, más bien se busca realizar un proyecto utilizando los componentes y poder realizar el autobalancin con una comunicación con el microcontrolador a través de un codigo c++ arduino.
 
-Todas las especificaciones y requerimientos de diseño se encuentran detallados en el documento `[base](base.pdf)`.
+Todas las especificaciones y requerimientos de diseño se encuentran detallados en el documento [**base.pdf**](base.pdf).
 
 ## Presentación 1 [22 de Septiembre]
 
