@@ -78,7 +78,7 @@ La carpeta [**avance_2**](avance_2) documenta los progresos correspondientes a l
 
 En cuanto al diseño estético, se seleccionó al personaje **Guido** de la película Cars, considerándolo ideal y atractivo para el proyecto (*inicialmente se contempló R2D2*). Posteriormente se desarrollará una carcasa personalizada con este diseño. La presentación de estos avances se encuentra en [**Presentación 2**](avance_2/presentación2.pdf).
 
-<img src="img/guido.png" alt="Guido" width="400">
+<img src="img/guido.jpg" alt="Guido" width="400">
 
 ### Contenido del avance:
 
