@@ -67,13 +67,13 @@ void loop() {
 - **Refuerzos estructurales**: Añadir soportes en zonas críticas susceptibles a daños por impactos
 - **Optimización del motor**: Utilizar el motorreductor amarillo por su ligereza y favorable relación torque/velocidad angular.
 
-<img src="img/guido.jpg" alt="Motor con Recuctora" width="400">
+<img src="img/reductora.jpg" alt="Motor con Recuctora" width="400">
 
 
 ## Avance 2
 La carpeta [**avance_2**](avance_2) corresponde a los avances para la segunda entrega del curso, donde se realizan varios cambios y avances, tanto en el diseño, como la incorporación de componentes y el código. Dentro del diseño estetico se elige a un personaje curioso de la pelicula de Cars, nuestro querido personaje ¡Guido!, que nos pareción ideal y atractivo (*no es que inicialmente queríamos R2D2*), sin embargo posteriormente se incorporará para la carcasa con su respectivo diseño.
 
-<img src="img/reductora.jpg" alt="Guido" width="400">
+<img src="img/guido.png" alt="Guido" width="400">
 
 
 
