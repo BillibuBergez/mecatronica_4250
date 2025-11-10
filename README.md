@@ -102,7 +102,7 @@ La carpeta [**avance_2**](avance_2) corresponde a los avances para la segunda en
   - Accesibilidad para mantenimiento
   - Optimización de peso y materiales
 
--**Código de Movimiento**
+- **Código de Movimiento**
 
 Aquí se incorporan códifos y funciones relacionadas al movimeinto de los motores para permitir el movimiento de las ruedas en función de lo que uno vaya necesitando o para más adelante reaccionar en función de lo que arroge el sensor y permita un PID funcional que permita el equilibrio.
 
@@ -165,7 +165,7 @@ void MotorStop()
   digitalWrite (PinIN4, LOW);
 }
 ```
--**Código de Sensor**
+- **Código de Sensor**
 
 Este código no es modificado y es el entregado en clases, que corresponde a la acción del sensor y la respuesta que arroja.
 
