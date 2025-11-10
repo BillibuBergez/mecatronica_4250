@@ -1,5 +1,9 @@
 # Mecatrónica [4250] - Robot Auto-Balancín
 
+## Indice de Contenidos
+- [Objetivos](##Objetivos)
+- 
+
 ## Objetivos
 
 El objetivo principal de este proyecto es el diseño y la construcción de un robot autobalancín funcional. El núcleo del desafío consiste en la implementación de un controlador **PID (Proporcional-Integral-Derivativo)** para mantener el equilibrio dinámico del sistema.
