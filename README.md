@@ -2,7 +2,9 @@
 
 ## Objetivos
 
-Los objetivos corresponden a la construcción de un robot autobalancín con componentes básicos y la implementación de PID. Todas las especificaciones se encuentran en el archivo [**base**](base/base.pdf)
+El objetivo principal de este proyecto es el diseño y la construcción de un robot autobalancín. Esto involucra la implementación de un controlador PID (Proporcional-Integral-Derivativo) para mantener el equilibrio dinámico del sistema, utilizando componentes electrónicos y estructurales básicos.
+
+Todas las especificaciones y requerimientos de diseño se encuentran detallados en el documento `base.pdf`.
 
 ## Presentación 1 [22 de Septiembre]
 
