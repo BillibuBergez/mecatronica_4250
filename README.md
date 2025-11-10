@@ -77,6 +77,8 @@ La carpeta [**avance_2**](avance_2) corresponde a los avances para la segunda en
 
 ### Contenido del avance:
 
+<img src="img/21.jpg" alt="Prototipo 2" width="400">
+
 - **Cambio de Diseño:** Se realizó una revisión completa del diseño inicial, implementando mejoras sustanciales en la configuración mecánica y electrónica del sistema. Donde se incorpora un portapilas, particularmente cada una de ellas de unos 4 volteos en serie, siendo un total de 12 volteos aproximadamente, más que suficiente para un correcto funcionamiento del sistema. Además se incorpora un sistema de sensibilidad dado por un giroscopio que permite generar información sobre la inclinación del sistema que posteriormente se utilizará ára que úeda autorregularse a través de un PID.
 
 - **Sistema de Propulsión:** Se incorporaron motores DC con caja reductora ("motores amarillos"), seleccionados por su óptima relación torque-velocidad angular y mayor eficiencia energética para aplicaciones de balanceo.
