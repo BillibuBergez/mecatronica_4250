@@ -71,7 +71,7 @@ void loop() {
 
 
 ## Avance 2
-La carpeta [**avance_2**](avance_2) corresponde a los avances para la segunda entrega del curso, donde se realizan varios cambios y avances, tanto en el diseño, como la incorporación de componentes y el código. Dentro del diseño estetico se elige a un personaje curioso de la pelicula de Cars, nuestro querido personaje ¡Guido!, que nos pareción ideal y atractivo (*no es que inicialmente queríamos R2D2*), sin embargo posteriormente se incorporará para la carcasa con su respectivo diseño.
+La carpeta [**avance_2**](avance_2) corresponde a los avances para la segunda entrega del curso, donde se realizan varios cambios y avances, tanto en el diseño, como la incorporación de componentes y el código. Dentro del diseño estetico se elige a un personaje curioso de la pelicula de Cars, nuestro querido personaje ¡Guido!, que nos pareción ideal y atractivo (*no es que inicialmente queríamos R2D2*), sin embargo posteriormente se incorporará para la carcasa con su respectivo diseño. Además, se realiza una presentación para mostrar los avances de este apartado, esto se encuentra en [**Presentación 2**](avance_2/presentación2.pdf).
 
 <img src="img/guido.png" alt="Guido" width="400">
 
