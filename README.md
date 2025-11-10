@@ -12,7 +12,7 @@ Todas las especificaciones y requerimientos de diseño se encuentran detallados 
 
 ## Avance 1 [22 de Septiembre]
 
-La carpeta [**avance_1**](avance_1) corresponde a los avances iniciales relacionados con la primera presentación.
+La carpeta [**avance_1**](avance_1) corresponde a los avances iniciales relacionados con la primera presentación. Donde en esta se inicia con el proyecto, donde se busca obtener la base del robot con las ruedas y motores implementados, además de unos soportes para resistir los impactos al momento de cae especialmente en las primeras etapas del prototipo. Se realiza una presentación al respecto en el archivo [**Presentación**](avance_1/Presentación.pptx)
 
 ### Contenido del avance:
 - **Prototipos iniciales**: Se desarrollaron dos prototipos, siendo el segundo el seleccionado para continuar el desarrollo. Próximamente se evaluarán mejoras adicionales según los requerimientos.
