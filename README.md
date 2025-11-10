@@ -1,13 +1,13 @@
 # Mecatrónica [4250] - Robot Auto-Balancín
 
 ## Indice de Contenidos
-- [Objetivos](## Objetivos)
-- [Avance 1](##Avance 1 - 22 de Septiembre)
+- [Objetivos](##Objetivos)
+- [Avance 1](##Avance-1:-22-de-Septiembre)
 - []()
 - []()
 - []()
 
-##Objetivos
+## Objetivos
 
 El objetivo principal de este proyecto es el diseño y la construcción de un robot autobalancín funcional. El núcleo del desafío consiste en la implementación de un controlador **PID (Proporcional-Integral-Derivativo)** para mantener el equilibrio dinámico del sistema.
 
@@ -17,7 +17,7 @@ Es importante definir el alcance: el foco está puesto en la **integración exit
 
 Todas las especificaciones y requerimientos de diseño se encuentran detallados en el documento [**Base**](base.pdf).
 
-##Avance 1 - 22 de Septiembre
+## Avance 1: 22 de Septiembre
 
 La carpeta [**avance_1**](avance_1) corresponde a los avances iniciales relacionados con la primera presentación. Donde en esta se inicia con el proyecto, donde se busca obtener la base del robot con las ruedas y motores implementados, además de unos soportes para resistir los impactos al momento de cae especialmente en las primeras etapas del prototipo. Se realiza una presentación al respecto en el archivo [**Presentación**](avance_1/Presentación.pdf). Se imprime utilizando una impresora 3D, utilizando un material de PLA.
 
