@@ -2,7 +2,7 @@
 
 # Mecatrónica [4250] - Robot Auto-Balancín
 
-##Indice de Contenidos
+## Indice de Contenidos
 - [Objetivos](##Objetivos)
 - [Avance 1](##Avance-1)
 - [Avance 2](##Avance-2)
