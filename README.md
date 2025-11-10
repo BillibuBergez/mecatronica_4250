@@ -93,7 +93,8 @@ La carpeta [**avance_2**](avance_2) corresponde a los avances para la segunda en
   - Unidad de control: Arduino Uno
   - Alimentación: Banco de baterías de 12V CC
 
-<img src="img/21.jpeg" alt="Prototipo 2" width="400">  
+<img src="img/h.jpg" alt="Puente H" width="400">  <img src="img/gyro.jpg" alt="Gyroscopio" width="400">  
+<img src="img/arduino.jpg" alt="Arduino Uno" width="400">  <img src="img/soporte.jpg" alt="Soporte de Pilas" width="400">  
 
 - **Ventajas del Nuevo Diseño:**
   - Mayor eficiencia energética
