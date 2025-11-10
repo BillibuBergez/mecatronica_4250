@@ -4,7 +4,8 @@
 
 ##Indice de Contenidos
 - [Objetivos](##Objetivos)
-- [Avance 1](##Avance-1-22-de-Septiembre)
+- [Avance 1](##Avance-1)
+- [Avance 2](##Avance-2)
 
 ## Objetivos
 
@@ -16,7 +17,7 @@ Es importante definir el alcance: el foco está puesto en la **integración exit
 
 Todas las especificaciones y requerimientos de diseño se encuentran detallados en el documento [**Base**](base.pdf).
 
-## Avance 1: 22 de Septiembre
+## Avance 1
 
 La carpeta [**avance_1**](avance_1) corresponde a los avances iniciales relacionados con la primera presentación. Donde en esta se inicia con el proyecto, donde se busca obtener la base del robot con las ruedas y motores implementados, además de unos soportes para resistir los impactos al momento de cae especialmente en las primeras etapas del prototipo. Se realiza una presentación al respecto en el archivo [**Presentación**](avance_1/Presentación.pdf). Se imprime utilizando una impresora 3D, utilizando un material de PLA.
 
@@ -69,8 +70,7 @@ void loop() {
 <img src="img/reductora.jpg" alt="Motor con Recuctora" width="400">
 
 
-## Presentación 2 [20 de Octubre]
-
+## Avance 2
 La carpeta [**avance_2**](avance_2) corresponde a los avances para la segunda entrega del curso, donde se realizan varios cambios y avances, tanto en el diseño, como la incorporación de componentes y el código.
 
 ### Contenido del avance:
