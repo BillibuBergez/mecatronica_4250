@@ -8,11 +8,11 @@ Para lograr esto, se integrarán componentes mecatrónicos esenciales, utilizand
 
 Es importante definir el alcance: el foco está puesto en la **integración exitosa de los componentes** y en la **demostración de un sistema de autobalanceo funcional**, más que en la optimización de la eficiencia o el rendimiento del diseño. Por lo tanto, aunque el prototipo pueda presentar ciertas ineficiencias, el objetivo se centra en la aplicación práctica de los conceptos de control.
 
-Todas las especificaciones y requerimientos de diseño se encuentran detallados en el documento [**base.pdf**](base.pdf).
+Todas las especificaciones y requerimientos de diseño se encuentran detallados en el documento [**Base**](base.pdf).
 
 ## Avance 1 [22 de Septiembre]
 
-La carpeta [**avance_1**](avance_1) corresponde a los avances iniciales relacionados con la primera presentación. Donde en esta se inicia con el proyecto, donde se busca obtener la base del robot con las ruedas y motores implementados, además de unos soportes para resistir los impactos al momento de cae especialmente en las primeras etapas del prototipo. Se realiza una presentación al respecto en el archivo [**Presentación**](avance_1/Presentación.pdf)
+La carpeta [**avance_1**](avance_1) corresponde a los avances iniciales relacionados con la primera presentación. Donde en esta se inicia con el proyecto, donde se busca obtener la base del robot con las ruedas y motores implementados, además de unos soportes para resistir los impactos al momento de cae especialmente en las primeras etapas del prototipo. Se realiza una presentación al respecto en el archivo [**Presentación**](avance_1/Presentación.pdf). Se imprime utilizando una impresora 3D, utilizando un material de PLA.
 
 ### Contenido del avance:
 - **Prototipos iniciales**: Se desarrollaron dos prototipos, siendo el segundo el seleccionado para continuar el desarrollo. Próximamente se evaluarán mejoras adicionales según los requerimientos.
@@ -20,7 +20,7 @@ La carpeta [**avance_1**](avance_1) corresponde a los avances iniciales relacion
 <img src="img/11.jpeg" alt="Render del robot" width="400">
 <img src="img/1.jpeg" alt="Render del robot" width="400">
 
-- **Código de movimiento**: Se incluye el programa para el control de movimiento de las ruedas, específicamente diseñado para los **motores DC** del prototipo final.
+- **Código de movimiento**: Se incluye el programa para el control de movimiento de las ruedas, específicamente diseñado para los **motores DC** del prototipo seleccionado.
 
 ```cpp
 #include <Stepper.h>
@@ -58,7 +58,8 @@ void loop() {
 ### Observaciones y mejoras identificadas:
 - **Material de las ruedas**: Implementar un material rugoso para mejorar la tracción
 - **Refuerzos estructurales**: Añadir soportes en zonas críticas susceptibles a daños por impactos
-- **Optimización del motor**: Utilizar el motorreductor amarillo por su ligereza y favorable relación torque/velocidad angular
+- **Optimización del motor**: Utilizar el motorreductor amarillo por su ligereza y favorable relación torque/velocidad angular.
+
 
 ## Presentación 2 [20 de Octubre]
 
