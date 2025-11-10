@@ -98,10 +98,8 @@ En cuanto al diseño estético, se seleccionó al personaje **Guido** de la pel�
   - Unidad de control: Arduino Uno
   - Alimentación: Banco de baterías de 12V CC
 
-<img src="img/h.jpg" alt="Puente H" width="400">
-<img src="img/gyro.jpg" alt="Gyroscopio" width="400">
-<img src="img/arduino.jpg" alt="Arduino Uno" width="400">
-<img src="img/soporte.jpeg" alt="Soporte de Pilas" width="400">
+<img src="img/h.jpg" alt="Puente H" width="400"><img src="img/gyro.jpg" alt="Gyroscopio" width="400">
+<img src="img/arduino.jpg" alt="Arduino Uno" width="400"><img src="img/soporte.jpeg" alt="Soporte de Pilas" width="400">
 
 - **Ventajas del Nuevo Diseño**:
   - Mayor eficiencia energética
@@ -280,6 +278,6 @@ void calibrateGyro() {
 - **Interruptor de alimentación**: Es importante implementar un switch para evitar el consumo constante de las baterías, permitiendo encender y apagar el sistema según sea conveniente
 - **Sistema de fijación**: Las fijaciones a presión son adecuadas para el prototipo actual, pero una implementación modular podría ser una mejora a considerar para el prototipo final, facilitando el desarme y mantenimiento
 
-## Avance 3 [11 de Noviembre]
+## Avance 3
 
 *[Contenido pendiente por desarrollar]*
