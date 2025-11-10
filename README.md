@@ -2,7 +2,11 @@
 
 ## Objetivos
 
-El objetivo principal de este proyecto es el diseño y la construcción de un robot autobalancín. Esto involucra la implementación de un controlador PID (Proporcional-Integral-Derivativo) para mantener el equilibrio dinámico del sistema, utilizando componentes electrónicos y estructurales básico. Estos componentes en general consisten a componentes mecátronicos esenciales como un ccontrolador, particualemten un Arduino UNO para nuestro proyecto, la selección de motores DC para las ruedas y una selección adecuada dado el objetivo, además de la selección de un diseño estetico para darle un toque original y atractivo al proyecto. Importante mencionar que no está dentro de los objetivos la optimización y eficiencia del diseño, por lo que es posible detectar ciertas ineficiencias, más bien se busca realizar un proyecto utilizando los componentes y poder realizar el autobalancin con una comunicación con el microcontrolador a través de un codigo c++ arduino.
+El objetivo principal de este proyecto es el diseño y la construcción de un robot autobalancín funcional. El núcleo del desafío consiste en la implementación de un controlador **PID (Proporcional-Integral-Derivativo)** para mantener el equilibrio dinámico del sistema.
+
+Para lograr esto, se integrarán componentes mecatrónicos esenciales, utilizando un microcontrolador **Arduino UNO** como unidad central de procesamiento. Este gestionará la lógica de control programada en C++ y la comunicación entre los sensores (encargados de medir la inclinación) y los actuadores (motores DC seleccionados para las ruedas). Además, el proyecto incluye el diseño de una **estética original y atractiva**, como parte de los requerimientos.
+
+Es importante definir el alcance: el foco está puesto en la **integración exitosa de los componentes** y en la **demostración de un sistema de autobalanceo funcional**, más que en la optimización de la eficiencia o el rendimiento del diseño. Por lo tanto, aunque el prototipo pueda presentar ciertas ineficiencias, el objetivo se centra en la aplicación práctica de los conceptos de control.
 
 Todas las especificaciones y requerimientos de diseño se encuentran detallados en el documento [**base.pdf**](base.pdf).
 
