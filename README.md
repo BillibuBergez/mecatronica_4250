@@ -17,8 +17,8 @@ La carpeta [**avance_1**](avance_1) corresponde a los avances iniciales relacion
 ### Contenido del avance:
 - **Prototipos iniciales**: Se desarrollaron dos prototipos, siendo el segundo el seleccionado para continuar el desarrollo. Próximamente se evaluarán mejoras adicionales según los requerimientos.
 
-<img src="img/11.jpeg" alt="Render del robot" width="400">
-<img src="img/1.jpeg" alt="Render del robot" width="400">
+<img src="img/11.jpeg" alt="Prototipo Inicial 1" width="400">
+<img src="img/1.jpeg" alt="Prototipo Inicial 2" width="400">
 
 - **Código de movimiento**: Se incluye el programa para el control de movimiento de las ruedas, específicamente diseñado para los **motores DC** del prototipo seleccionado.
 
@@ -59,6 +59,8 @@ void loop() {
 - **Material de las ruedas**: Implementar un material rugoso para mejorar la tracción
 - **Refuerzos estructurales**: Añadir soportes en zonas críticas susceptibles a daños por impactos
 - **Optimización del motor**: Utilizar el motorreductor amarillo por su ligereza y favorable relación torque/velocidad angular.
+
+<img src="img/reductora.jpg" alt="Motor con Recuctora" width="400">
 
 
 ## Presentación 2 [20 de Octubre]
