@@ -18,9 +18,9 @@
 - [Descripción](#descripción)
 - [Objetivos](#objetivos)
 - [Avance](#avances)
-  - [Avance 1](##avance_1)
-  - [Avance 2](##avance_2)
-  - [Avance 3](##avance_3)
+  - [Avance 1](#avance-1)
+  - [Avance 2](#avance-2)
+  - [Avance 3](#avance-3)
 - [Prototipo](#prototipo)
 
 ## Descripción
