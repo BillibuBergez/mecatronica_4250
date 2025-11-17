@@ -25,6 +25,9 @@
 
 ## Descripción
 
+En este apartado se realiza un pequeño "resumen" de lo que se abordará en este repositorio y los distintos apartados. Entre ellos se plantea inicialmente lo que es nuestro proyecto y los objetivos de él durante el desarrollo de él, posteriormente un apartado de todos los avances y las distintas entregas que se realizaron durante el transcurso del curso, ordenados de un inicio hasta obtener el prototipo completo, donde finalmente hay un apartado donde efectivamente ya está el rpototipo completo, donde se señalan las carpetas ordenadas de los distintos apartados, como los componetnes elctricos, los cads y los códigos.
+
+
 ## Objetivos
 
 El objetivo principal de este proyecto es el diseño y construcción de un robot autobalancín funcional. El núcleo del desafío consiste en implementar un controlador **PID (Proporcional-Integral-Derivativo)** para mantener el equilibrio dinámico del sistema.
@@ -92,7 +95,7 @@ void loop() {
 - **Optimización del motor**: Se propone utilizar el motorreductor amarillo por su ligereza y favorable relación torque/velocidad angular
 
 <img src="img/reductora.jpg" alt="Motor con Reductora" width="400">
-
+Triste
 ### Avance 2
 
 La carpeta [**avance_2**](avance_2) documenta los progresos correspondientes a la segunda entrega del curso, donde se implementaron cambios significativos tanto en el diseño como en la incorporación de componentes y código. 
