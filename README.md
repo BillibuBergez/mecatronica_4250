@@ -1,16 +1,16 @@
 # Mecatrónica [4250] - Robot Auto-Balancín
 
-# Integrantes 
+### Integrantes 
 - Agustín Montero
 - Emilio Bergez
 - Luis Rosso
 - Manuel Pérez
 
-# Profesor
+### Profesor
 - Harlod Valenzuela
-# Auxiliar
+### Auxiliar
 - Fernando Navarrete
-# Ayudantes
+### Ayudantes
 - Fernanada Echevarria
 - Valentia Abarca
 
