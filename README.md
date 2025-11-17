@@ -300,7 +300,7 @@ La carpeta [**avance_3**](avance_3) ya incorpora los últimos avances del curso,
 
 - **Diseño**: Dado por una falla de la placa arduino utilizada previamente, se opta por cambiarla a por otra que corresponde a un **Arduino Mega**, como el que se visualiza en la imagen posterior. Además que se incorpora finalmente la carcasa de nuestro personaje al prototipo anterior, pues más que eso no se realizan cambios significativos más que relacionados a la tolerancia u otros propios de la impresión o detalles de ajuste.
 
-<img src="img/mega.webp" alt="Arduino Mega" width="400"><img src="img/31.png" alt="Prototipo con Carcasa" width="400">
+<img src="img/mega.webp" alt="Arduino Mega" width="400"> <img src="img/31.png" alt="Prototipo sin Carcasa" width="400"> <img src="img/32.png" alt="Prototipo con Carcasa" width="400">
 
 #### Observaciones
 
