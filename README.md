@@ -15,9 +15,12 @@
 - Valentina Abarca
 
 ## Índice de Contenidos
+- [Descripción](#descripción)
 - [Objetivos](#objetivos)
 - [Avance](#avances)
 - [Prototipo](#prototipo)
+
+## Descripción
 
 ## Objetivos
 
