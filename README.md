@@ -280,4 +280,4 @@ void calibrateGyro() {
 
 ## Avance 3
 
-*[Contenido pendiente por desarrollar]*
+
