@@ -16,7 +16,7 @@
 
 ## Índice de Contenidos
 - [Objetivos](#objetivos)
-- [Avance 1](#avances)
+- [Avance](#avances)
 
 ## Objetivos
 
@@ -294,7 +294,11 @@ void calibrateGyro() {
 
 ### Avance 3
 
+
+
 #### Contenido del avance
+
+
 
 #### Observaciones
 
