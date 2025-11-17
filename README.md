@@ -302,5 +302,11 @@ La carpeta [**avance_3**](avance_3) ya incorpora los últimos avances del curso,
 
 <img src="img/mega.webp" alt="Arduino Mega" width="400"> <img src="img/31.png" alt="Prototipo sin Carcasa" width="400"> <img src="img/32.png" alt="Prototipo con Carcasa" width="400">
 
-- **Código**: Se incorpora un código para el PID, donde se utiliza un código generico y se adaptan los valores de $K_i$
+Aquí, adicionalmente se incorpora un vídeo que muestra el proceso de producción de la carcasa a través de la impresora 3D.
+
+<img src="img/mega.webp" alt="Arduino Mega" width="400"> 
+
+
+
+- **Código**: Se incorpora un código para el PID, donde se utiliza un código generico y se adaptan los valores de $K_i$ en función de nuestro proyecto. Realmente sólo se va probando  estos valores hasta llegar a un resultado óptimo de nuestro modelo.
 
