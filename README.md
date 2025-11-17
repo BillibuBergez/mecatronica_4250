@@ -30,11 +30,13 @@ Es importante definir que el alcance del proyecto se centra en la **integración
 
 Todas las especificaciones y requerimientos de diseño se detallan en el documento [**Base**](base.pdf).
 
-## Avance 1
+## Avances
+
+### Avance 1
 
 La carpeta [**avance_1**](avance_1) contiene los avances iniciales correspondientes a la primera presentación. En esta etapa se establecieron las bases del robot, implementando las ruedas y motores, junto con soportes diseñados para resistir impactos durante las primeras fases de desarrollo del prototipo. La documentación de esta fase se presenta en el archivo [**Presentación**](avance_1/Presentación.pdf). Las piezas se fabricaron mediante impresión 3D utilizando material PLA.
 
-### Contenido del avance
+#### Contenido del avance
 
 - **Prototipos iniciales**: Se desarrollaron dos prototipos, seleccionando el segundo para continuar con el desarrollo. Posteriormente se evaluarán mejoras adicionales según los requerimientos.
 
@@ -78,7 +80,7 @@ void loop() {
 }
 ```
 
-### Observaciones
+#### Observaciones
 
 - **Material de las ruedas**: Se recomienda implementar un material rugoso para mejorar la tracción
 - **Refuerzos estructurales**: Es necesario añadir soportes en zonas críticas susceptibles a daños por impactos
@@ -86,7 +88,7 @@ void loop() {
 
 <img src="img/reductora.jpg" alt="Motor con Reductora" width="400">
 
-## Avance 2
+### Avance 2
 
 La carpeta [**avance_2**](avance_2) documenta los progresos correspondientes a la segunda entrega del curso, donde se implementaron cambios significativos tanto en el diseño como en la incorporación de componentes y código. 
 
@@ -94,7 +96,7 @@ En cuanto al diseño estético, se seleccionó al personaje **Guido** de la pel�
 
 <img src="img/guido.jpg" alt="Guido" width="400">
 
-### Contenido del avance:
+#### Contenido del avance:
 
 <img src="img/21.jpeg" alt="Prototipo 2" width="400">
 
@@ -287,14 +289,14 @@ void calibrateGyro() {
 }
 ```
 
-### Observaciones
+#### Observaciones
 
 - **Interruptor de alimentación**: Es importante implementar un switch para evitar el consumo constante de las baterías, permitiendo encender y apagar el sistema según sea conveniente
 - **Sistema de fijación**: Las fijaciones a presión son adecuadas para el prototipo actual, pero una implementación modular podría ser una mejora a considerar para el prototipo final, facilitando el desarme y mantenimiento
 
-## Avance 3
+### Avance 3
 
-### Contenido del avance
+#### Contenido del avance
 
-### Observaciones
+#### Observaciones
 
