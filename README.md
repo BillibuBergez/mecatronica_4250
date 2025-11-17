@@ -17,6 +17,7 @@
 ## Índice de Contenidos
 - [Objetivos](#objetivos)
 - [Avance](#avances)
+- [Prototipo_Final](#prototipo_final)
 
 ## Objetivos
 
@@ -294,7 +295,7 @@ void calibrateGyro() {
 
 ### Avance 3
 
-La carpeta [**avance_3**](avance_3) ya incorpora los últimos avances del curso, donde se incorpora y se optimiza todo para lograr el objetivo, que es la construcción de este robot auto-balanción. Dentro de ello, se incortpora los códigos necesarios para la incoropración del PId, además de la construcción de la carcasa, finalizando finalmente con el prototipo.
+La carpeta [**avance_3**](avance_3) ya incorpora los últimos avances del curso, donde se incorpora y se optimiza todo para lograr el objetivo, que es la construcción de este robot auto-balanción. Dentro de ello, se incortpora los códigos necesarios para la incoropracióAquí, adicionalmente se incorpora un vídeo que muestra el proceso de producción de la carcasa a través de la impresora 3D.n del PId, además de la construcción de la carcasa, finalizando finalmente con el prototipo.
 
 #### Contenido del avance
 
@@ -305,7 +306,8 @@ La carpeta [**avance_3**](avance_3) ya incorpora los últimos avances del curso,
 Aquí, adicionalmente se incorpora un vídeo que muestra el proceso de producción de la carcasa a través de la impresora 3D.
 
 <img src="img/video(2).gif" alt="Producción de la Carcasa" width="400"> 
-
+Aquí, adicionalmente se incorpora un vídeo que muestra el proceso de producción de la carcasa a través de la impresora 3D.
 
 - **Código**: Se incorpora un código para el PID, donde se utiliza un código generico y se adaptan los valores de $K_i$ en función de nuestro proyecto. Realmente sólo se va probando  estos valores hasta llegar a un resultado óptimo de nuestro modelo.
 
+## Prototipo Final
