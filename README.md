@@ -302,5 +302,5 @@ La carpeta [**avance_3**](avance_3) ya incorpora los últimos avances del curso,
 
 <img src="img/mega.webp" alt="Arduino Mega" width="400"> <img src="img/31.png" alt="Prototipo sin Carcasa" width="400"> <img src="img/32.png" alt="Prototipo con Carcasa" width="400">
 
-#### Observaciones
+- **Código**: Se incorpora un código para el PID, donde se utiliza un código generico y se adaptan los valores de $K_i$
 
