@@ -304,7 +304,7 @@ La carpeta [**avance_3**](avance_3) ya incorpora los últimos avances del curso,
 
 Aquí, adicionalmente se incorpora un vídeo que muestra el proceso de producción de la carcasa a través de la impresora 3D.
 
-<img src="img/mega.webp" alt="Arduino Mega" width="400"> 
+<img src="img/video.gif" alt="Producción de la Carcasa" width="400"> 
 
 
 
