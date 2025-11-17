@@ -20,7 +20,7 @@ Todas las especificaciones y requerimientos de diseño se detallan en el documen
 
 La carpeta [**avance_1**](avance_1) contiene los avances iniciales correspondientes a la primera presentación. En esta etapa se establecieron las bases del robot, implementando las ruedas y motores, junto con soportes diseñados para resistir impactos durante las primeras fases de desarrollo del prototipo. La documentación de esta fase se presenta en el archivo [**Presentación**](avance_1/Presentación.pdf). Las piezas se fabricaron mediante impresión 3D utilizando material PLA.
 
-### Contenido del avance:
+### Contenido del avance
 
 - **Prototipos iniciales**: Se desarrollaron dos prototipos, seleccionando el segundo para continuar con el desarrollo. Posteriormente se evaluarán mejoras adicionales según los requerimientos.
 
@@ -64,7 +64,7 @@ void loop() {
 }
 ```
 
-### Observaciones y mejoras identificadas:
+### Observaciones
 
 - **Material de las ruedas**: Se recomienda implementar un material rugoso para mejorar la tracción
 - **Refuerzos estructurales**: Es necesario añadir soportes en zonas críticas susceptibles a daños por impactos
@@ -273,11 +273,14 @@ void calibrateGyro() {
 }
 ```
 
-### Posibles Mejoras
+### Observaciones
 
 - **Interruptor de alimentación**: Es importante implementar un switch para evitar el consumo constante de las baterías, permitiendo encender y apagar el sistema según sea conveniente
 - **Sistema de fijación**: Las fijaciones a presión son adecuadas para el prototipo actual, pero una implementación modular podría ser una mejora a considerar para el prototipo final, facilitando el desarme y mantenimiento
 
 ## Avance 3
 
+### Contenido del avance
+
+### Observaciones
 
