@@ -11,8 +11,8 @@
 ### Auxiliar
 - Fernando Navarrete
 ### Ayudantes
-- Fernanada Echevarria
-- Valentia Abarca
+- Fernanda Echevarria
+- Valentina Abarca
 
 ## Índice de Contenidos
 - [Objetivos](#objetivos)
