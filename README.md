@@ -16,9 +16,7 @@
 
 ## Índice de Contenidos
 - [Objetivos](#objetivos)
-- [Avance 1](#avance-1)
-- [Avance 2](#avance-2)
-- [Avance 3](#avance-3)
+- [Avance 1](#avances)
 
 ## Objetivos
 
