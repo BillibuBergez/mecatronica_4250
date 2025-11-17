@@ -17,7 +17,7 @@
 ## Índice de Contenidos
 - [Objetivos](#objetivos)
 - [Avance](#avances)
-- [Prototipo_Final](#prototipo_final)
+- [Prototipo](#prototipo)
 
 ## Objetivos
 
@@ -310,4 +310,4 @@ Aquí, adicionalmente se incorpora un vídeo que muestra el proceso de producci�
 
 - **Código**: Se incorpora un código para el PID, donde se utiliza un código generico y se adaptan los valores de $K_i$ en función de nuestro proyecto. Realmente sólo se va probando  estos valores hasta llegar a un resultado óptimo de nuestro modelo.
 
-## Prototipo Final
+## Prototipo
