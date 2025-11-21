@@ -3,29 +3,30 @@
 <table width="100%">
   <thead>
     <tr>
-      <!-- El width="100%" arriba hace la magia. Aquí añadí el icono de grupo -->
-      <th align="left">👥 Composición del Proyecto</th>
+      <th width="100%" align="left">👥 Composición del Proyecto</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
-        <!-- Usé emojis específicos para cada rol -->
         <h3>🛠️ Integrantes</h3>
         <ul>
           <li>Agustín Montero</li>
           <li>Emilio Bergez</li>
           <li>Luis Rosso</li>
           <li>Manuel Pérez</li>
-        </ul>       
+        </ul>
+        <br>   
         <h3>👨‍🏫 Profesor</h3>
         <ul>
           <li>Harold Valenzuela</li>
-        </ul>        
+        </ul>
+        <br>
         <h3>📚 Auxiliar</h3>
         <ul>
           <li>Fernando Navarrete</li>
-        </ul>    
+        </ul>
+        <br>
         <h3>📝 Ayudantes</h3>
         <ul>
           <li>Fernanda Echevarria</li>
