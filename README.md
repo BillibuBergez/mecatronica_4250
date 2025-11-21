@@ -3,29 +3,37 @@
 <table>
   <thead>
     <tr>
-      <th align="left">📦 Assets (Archivos y Descargas)</th>
+      <!-- Encabezado: Título de la caja con fondo oscuro -->
+      <th align="left">👥 Composición del Proyecto</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <!-- Cuerpo: Contenido de la caja -->
       <td>
-        <details>
-          <summary>Haz clic para desplegar los archivos</summary>
-          <br>
-          
-          <ul>
-            <li>
-                <a href="avance_1/codigo.ino">🧱 <b>Codigo_Motores.ino</b></a> - <i>Controlador base</i>
-            </li>
-            <li>
-                <a href="avance_1/diseño.stl">📐 <b>Soporte_v2.stl</b></a> - <i>Archivo de impresión 3D</i>
-            </li>
-            <li>
-                <a href="base.pdf">📄 <b>Requerimientos.pdf</b></a> - <i>Documentación oficial</i>
-            </li>
-          </ul>
-          
-        </details>
+        <h3>Integrantes</h3>
+        <ul>
+          <li>Agustín Montero</li>
+          <li>Emilio Bergez</li>
+          <li>Luis Rosso</li>
+          <li>Manuel Pérez</li>
+        </ul>
+        
+        <h3>Profesor</h3>
+        <ul>
+          <li>Harold Valenzuela</li>
+        </ul>
+        
+        <h3>Auxiliar</h3>
+        <ul>
+          <li>Fernando Navarrete</li>
+        </ul>
+        
+        <h3>Ayudantes</h3>
+        <ul>
+          <li>Fernanda Echevarria</li>
+          <li>Valentina Abarca</li>
+        </ul>
       </td>
     </tr>
   </tbody>
