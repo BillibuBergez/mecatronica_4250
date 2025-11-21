@@ -26,7 +26,7 @@
   - [Avance 1](#avance-1)
   - [Avance 2](#avance-2)
   - [Avance 3](#avance-3)
-- [Prototipo](#prototipo)
+- [Prototipo y Descargas](#prototipo-y-descargas)
 
 <hr>
 
@@ -45,8 +45,6 @@ Para lograr este objetivo, se integrarán componentes mecatrónicos esenciales u
 Es importante definir que el alcance del proyecto se centra en la **integración exitosa de los componentes** y en la **demostración de un sistema de autobalanceo funcional**, priorizando esto sobre la optimización de la eficiencia o el rendimiento del diseño. Por lo tanto, aunque el prototipo pueda presentar ciertas ineficiencias, el objetivo principal radica en la aplicación práctica de los conceptos de control.
 
 Todas las especificaciones y requerimientos de diseño se detallan en el documento [**Base**](base.pdf).
-
-📄 <a href="blob:https://github.com/e19bc726-6b06-467c-939a-340e75de8b35">  Base </a>
 
 <hr>
 
@@ -525,7 +523,7 @@ void loop()
 </details>
 <hr>
 
-## Prototipo
+## Prototipo y Descargas
 
 Bueno, como se mencionó al inicio del documento, acá se reordenan los documentos utilizadosy obtenidos para que el usuario pueda utilizarlos o visualizarlos a libre disposición.
 
