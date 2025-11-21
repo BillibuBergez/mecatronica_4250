@@ -217,6 +217,10 @@ void MotorStop()
 
 Se utilizó el código proporcionado en clases para la lectura del sensor MPU-6050, que proporciona los datos de orientación necesarios para el sistema de control.
 
+<hr>
+<details>
+  <summary> <b>Código</b> </summary>
+
 ```cpp
 #include <Wire.h>
 
@@ -314,6 +318,8 @@ void calibrateGyro() {
   gz_offset = sumZ / samples;
 }
 ```
+</details>
+<hr>
 
 #### Observaciones
 
@@ -335,6 +341,11 @@ Aquí, adicionalmente se incorpora un vídeo que muestra el proceso de producci�
 <img src="img/video(2).gif" alt="Producción de la Carcasa" width="400"> 
 
 - **Código**: Se incorpora un código para el PID, donde se utiliza un código generico y se adaptan los valores de $K_i$ en función de nuestro proyecto. Realmente sólo se va probando  estos valores hasta llegar a un resultado óptimo de nuestro modelo.Cómo se visualiza en el código, los $K_i$ serían $K_p =90$, $K_d =1.8$ y $K_i =0$.
+
+<hr>
+<details>
+  <summary> <b>Código</b> </summary>
+
 ```cpp
 //Self Balancing Robot
 #include <PID_v1.h>
@@ -497,6 +508,10 @@ void loop()
  }
 }
 ```
+
+
+</details>
+<hr>
 
 ## Prototipo
 
