@@ -27,6 +27,16 @@
 
 En este apartado se realiza un pequeño "resumen" de lo que se abordará en este repositorio y los distintos apartados. Entre ellos se plantea inicialmente lo que es nuestro proyecto y los objetivos de él durante el desarrollo de él, posteriormente un apartado de todos los avances y las distintas entregas que se realizaron durante el transcurso del curso, ordenados de un inicio hasta obtener el prototipo completo, donde finalmente hay un apartado donde efectivamente ya está el rpototipo completo, donde se señalan las carpetas ordenadas de los distintos apartados, como los componetnes elctricos, los CAD y los códigos.
 
+<details>
+  <summary>▶️ Haz clic aquí para ver los archivos (Assets)</summary>
+  
+  <br> Aquí pones todo lo que quieras ocultar:
+  - Texto
+  - Imágenes
+  - Tablas de archivos
+  - Bloques de código
+  
+</details>
 
 ## Objetivos
 
