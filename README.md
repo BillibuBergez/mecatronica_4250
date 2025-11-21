@@ -18,17 +18,14 @@
           <li>Luis Rosso</li>
           <li>Manuel Pérez</li>
         </ul>
-        
         <h3>Profesor</h3>
         <ul>
           <li>Harold Valenzuela</li>
         </ul>
-        
         <h3>Auxiliar</h3>
         <ul>
           <li>Fernando Navarrete</li>
-        </ul>
-        
+        </ul>   
         <h3>Ayudantes</h3>
         <ul>
           <li>Fernanda Echevarria</li>
