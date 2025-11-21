@@ -1,41 +1,23 @@
-# Mecatrónica [4250] - Robot Auto-Balancín
+# Mecatrónica [4250] - Proyecto: Robot Auto-Balancín
 
-<table width=900px>
-  <thead>
-    <tr>
-      <th width="100%" align="left">👥 Composición del Proyecto</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <h3>🛠️ Integrantes</h3>
-        <ul>
-          <li>Agustín Montero</li>
-          <li>Emilio Bergez</li>
-          <li>Luis Rosso</li>
-          <li>Manuel Pérez</li>
-        </ul>
-        <br>   
-        <h3>👨‍🏫 Profesor</h3>
-        <ul>
-          <li>Harold Valenzuela</li>
-        </ul>
-        <br>
-        <h3>📚 Auxiliar</h3>
-        <ul>
-          <li>Fernando Navarrete</li>
-        </ul>
-        <br>
-        <h3>📝 Ayudantes</h3>
-        <ul>
-          <li>Fernanda Echevarria</li>
-          <li>Valentina Abarca</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
+> 
+> ### 👥 Composición del Proyecto
+>
+> **🛠️ Integrantes**
+> - Agustín Montero
+> - Emilio Bergez
+> - Luis Rosso
+> - Manuel Pérez
+>
+> **👨‍🏫 Profesor**
+> - Harold Valenzuela
+>
+> **📚 Auxiliar**
+> - Fernando Navarrete
+>
+> **📝 Ayudantes**
+> - Fernanda Echevarria
+> - Valentina Abarca
 
 ## Índice de Contenidos
 - [Descripción](#descripción)
@@ -76,8 +58,10 @@ La carpeta [**avance_1**](avance_1) contiene los avances iniciales correspondien
 </center>
 
 - **Código de movimiento**: Se implementó un programa para el control de movimiento de las ruedas, específicamente diseñado para los **motores DC** del prototipo seleccionado.
+
+<hr>
 <details>
-  <summary>Para Visualizar el Código</summary>
+  <summary> <b>Código</b> </summary>
   
   ```cpp
 #include <Stepper.h>
@@ -113,6 +97,8 @@ void loop() {
 ```
 
 </details>
+<hr>
+
 
 #### Observaciones
 
@@ -121,7 +107,7 @@ void loop() {
 - **Optimización del motor**: Se propone utilizar el motorreductor amarillo por su ligereza y favorable relación torque/velocidad angular
 
 <img src="img/reductora.jpg" alt="Motor con Reductora" width="400">
-Triste
+
 ### Avance 2
 
 La carpeta [**avance_2**](avance_2) documenta los progresos correspondientes a la segunda entrega del curso, donde se implementaron cambios significativos tanto en el diseño como en la incorporación de componentes y código. 
@@ -160,6 +146,10 @@ En cuanto al diseño estético, se seleccionó al personaje **Guido** de la pel�
 - **Código de Movimiento**:
 
 Se implementaron funciones para controlar el movimiento de los motores, permitiendo el giro de las ruedas en diferentes direcciones. Este código servirá como base para la implementación futura del control PID que permitirá el equilibrio del robot.
+
+<hr>
+<details>
+  <summary> <b>Código</b> </summary>
 
 ```cpp
 const int PinIN1 = 7;
@@ -220,6 +210,8 @@ void MotorStop()
   digitalWrite (PinIN4, LOW);
 }
 ```
+</details>
+<hr>
 
 - **Código del Sensor**:
 
