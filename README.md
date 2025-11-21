@@ -1,5 +1,36 @@
 # Mecatrónica [4250] - Robot Auto-Balancín
 
+<table>
+  <thead>
+    <tr>
+      <th align="left">📦 Assets (Archivos y Descargas)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <details>
+          <summary>Haz clic para desplegar los archivos</summary>
+          <br>
+          
+          <ul>
+            <li>
+                <a href="avance_1/codigo.ino">🧱 <b>Codigo_Motores.ino</b></a> - <i>Controlador base</i>
+            </li>
+            <li>
+                <a href="avance_1/diseño.stl">📐 <b>Soporte_v2.stl</b></a> - <i>Archivo de impresión 3D</i>
+            </li>
+            <li>
+                <a href="base.pdf">📄 <b>Requerimientos.pdf</b></a> - <i>Documentación oficial</i>
+            </li>
+          </ul>
+          
+        </details>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ### Integrantes 
 - Agustín Montero
 - Emilio Bergez
