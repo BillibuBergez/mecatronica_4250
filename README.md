@@ -1,6 +1,6 @@
 # Mecatrónica [4250] - Robot Auto-Balancín
 
-<table width="100%">
+<table width=900px>
   <thead>
     <tr>
       <th width="100%" align="left">👥 Composición del Proyecto</th>
