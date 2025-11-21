@@ -1,32 +1,32 @@
 # Mecatrónica [4250] - Robot Auto-Balancín
 
-<table>
+<table width="100%">
   <thead>
     <tr>
-      <!-- Encabezado: Título de la caja con fondo oscuro -->
+      <!-- El width="100%" arriba hace la magia. Aquí añadí el icono de grupo -->
       <th align="left">👥 Composición del Proyecto</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <!-- Cuerpo: Contenido de la caja -->
       <td>
-        <h3>Integrantes</h3>
+        <!-- Usé emojis específicos para cada rol -->
+        <h3>🛠️ Integrantes</h3>
         <ul>
           <li>Agustín Montero</li>
           <li>Emilio Bergez</li>
           <li>Luis Rosso</li>
           <li>Manuel Pérez</li>
-        </ul>
-        <h3>Profesor</h3>
+        </ul>       
+        <h3>👨‍🏫 Profesor</h3>
         <ul>
           <li>Harold Valenzuela</li>
-        </ul>
-        <h3>Auxiliar</h3>
+        </ul>        
+        <h3>📚 Auxiliar</h3>
         <ul>
           <li>Fernando Navarrete</li>
-        </ul>   
-        <h3>Ayudantes</h3>
+        </ul>    
+        <h3>📝 Ayudantes</h3>
         <ul>
           <li>Fernanda Echevarria</li>
           <li>Valentina Abarca</li>
@@ -34,26 +34,6 @@
       </td>
     </tr>
   </tbody>
-</table>
-
-<table>
-  <thead> <tr> Composición del Proyecto </tr> </thead>
-  
-  <tbody>
-### Integrantes 
-- Agustín Montero
-- Emilio Bergez
-- Luis Rosso
-- Manuel Pérez
-### Profesor
-- Harold Valenzuela
-### Auxiliar
-- Fernando Navarrete
-### Ayudantes
-- Fernanda Echevarria
-- Valentina Abarca
-  </tbody>
-  
 </table>
 
 ## Índice de Contenidos
