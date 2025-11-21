@@ -32,7 +32,7 @@
 </table>
 
 <table>
-  <thead> Composición del Proyecto </thead>
+  <thead> <tr> Composición del Proyecto </tr> </thead>
   
   <tbody>
 ### Integrantes 
