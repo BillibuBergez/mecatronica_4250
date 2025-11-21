@@ -27,17 +27,6 @@
 
 En este apartado se realiza un pequeño "resumen" de lo que se abordará en este repositorio y los distintos apartados. Entre ellos se plantea inicialmente lo que es nuestro proyecto y los objetivos de él durante el desarrollo de él, posteriormente un apartado de todos los avances y las distintas entregas que se realizaron durante el transcurso del curso, ordenados de un inicio hasta obtener el prototipo completo, donde finalmente hay un apartado donde efectivamente ya está el rpototipo completo, donde se señalan las carpetas ordenadas de los distintos apartados, como los componetnes elctricos, los CAD y los códigos.
 
-<details>
-  <summary>▶️ Haz clic aquí para ver los archivos (Assets)</summary>
-  
-  <br> Aquí pones todo lo que quieras ocultar:
-  - Texto
-  - Imágenes
-  - Tablas de archivos
-  - Bloques de código
-  
-</details>
-
 ## Objetivos
 
 El objetivo principal de este proyecto es el diseño y construcción de un robot autobalancín funcional. El núcleo del desafío consiste en implementar un controlador **PID (Proporcional-Integral-Derivativo)** para mantener el equilibrio dinámico del sistema.
@@ -64,8 +53,10 @@ La carpeta [**avance_1**](avance_1) contiene los avances iniciales correspondien
 </center>
 
 - **Código de movimiento**: Se implementó un programa para el control de movimiento de las ruedas, específicamente diseñado para los **motores DC** del prototipo seleccionado.
-
-```cpp
+<details>
+  <summary>Para Visualizar el Código</summary>
+  
+  ```cpp
 #include <Stepper.h>
 int stepsPerRevolution = 2048;
 int motSpeed = 5;
@@ -97,6 +88,8 @@ void loop() {
   }
 }
 ```
+
+</details>
 
 #### Observaciones
 
