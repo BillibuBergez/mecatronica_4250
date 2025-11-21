@@ -32,18 +32,13 @@
 </table>
 
 <table>
-  <thead> Integrantes </thead>
-  <tbody>
-    
+  <thead> Composición del Proyecto </thead>
 ### Integrantes 
 - Agustín Montero
 - Emilio Bergez
 - Luis Rosso
 - Manuel Pérez
-  
-  </tbody>
-</table>
-
+<tbody>
 ### Profesor
 - Harold Valenzuela
 ### Auxiliar
@@ -51,8 +46,8 @@
 ### Ayudantes
 - Fernanda Echevarria
 - Valentina Abarca
-
-
+</tbody>
+</table>
 
 ## Índice de Contenidos
 - [Descripción](#descripción)
