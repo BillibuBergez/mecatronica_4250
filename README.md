@@ -34,12 +34,15 @@
 <table>
   <thead> Integrantes </thead>
   <tbody>
+    
 ### Integrantes 
 - Agustín Montero
 - Emilio Bergez
 - Luis Rosso
 - Manuel Pérez
-</tbody>
+  
+  </tbody>
+</table>
 
 ### Profesor
 - Harold Valenzuela
@@ -49,7 +52,7 @@
 - Fernanda Echevarria
 - Valentina Abarca
 
-</table>
+
 
 ## Índice de Contenidos
 - [Descripción](#descripción)
