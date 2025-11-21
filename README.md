@@ -46,7 +46,7 @@ Es importante definir que el alcance del proyecto se centra en la **integración
 
 Todas las especificaciones y requerimientos de diseño se detallan en el documento [**Base**](base.pdf).
 
-<a href="base.pdf">📄 Base </a>
+📄 <a href="blob:https://github.com/e19bc726-6b06-467c-939a-340e75de8b35">  Base </a>
 
 <hr>
 
