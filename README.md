@@ -30,7 +30,7 @@
     </tr>
   </tbody>
 </table>
-
+<table>
 ### Integrantes 
 - Agustín Montero
 - Emilio Bergez
@@ -44,6 +44,7 @@
 ### Ayudantes
 - Fernanda Echevarria
 - Valentina Abarca
+</table>
 
 ## Índice de Contenidos
 - [Descripción](#descripción)
