@@ -28,9 +28,13 @@
   - [Avance 3](#avance-3)
 - [Prototipo](#prototipo)
 
+<hr>
+
 ## Descripción
 
 En este apartado se realiza un pequeño "resumen" de lo que se abordará en este repositorio y los distintos apartados. Entre ellos se plantea inicialmente lo que es nuestro proyecto y los objetivos de él durante el desarrollo de él, posteriormente un apartado de todos los avances y las distintas entregas que se realizaron durante el transcurso del curso, ordenados de un inicio hasta obtener el prototipo completo, donde finalmente hay un apartado donde efectivamente ya está el rpototipo completo, donde se señalan las carpetas ordenadas de los distintos apartados, como los componetnes elctricos, los CAD y los códigos.
+
+<hr>
 
 ## Objetivos
 
@@ -42,7 +46,13 @@ Es importante definir que el alcance del proyecto se centra en la **integración
 
 Todas las especificaciones y requerimientos de diseño se detallan en el documento [**Base**](base.pdf).
 
+<hr>
+
 ## Avances
+
+Esta sección de avances va mostrando los distintos avances cronologicos que se desarrollan en el curso hasta llegar al prototipo final que corresponde a la última sección de este informe o repositorio.
+
+
 
 ### Avance 1
 
