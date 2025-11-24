@@ -525,7 +525,11 @@ void loop()
 
 ## Prototipo y Descargas
 
-Bueno, como se mencionó al inicio del documento, acá se reordenan los documentos utilizadosy obtenidos para que el usuario pueda utilizarlos o visualizarlos a libre disposición.
+Bueno, como se mencionó al inicio del documento, acá se reordenan los documentos utilizados y obtenidos para que el usuario pueda utilizarlos o visualizar a libre disposición. Se presenta a continuación el resultadado del proceso, con su respectivo CAD e imagen real.
+
+
+
+
 
 
 
