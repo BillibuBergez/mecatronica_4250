@@ -52,8 +52,6 @@ Todas las especificaciones y requerimientos de diseño se detallan en el documen
 
 Esta sección de avances va mostrando los distintos avances cronologicos que se desarrollan en el curso hasta llegar al prototipo final que corresponde a la última sección de este informe o repositorio.
 
-
-
 ### Avance 1
 
 La carpeta [**avance_1**](avance_1) contiene los avances iniciales correspondientes a la primera presentación. En esta etapa se establecieron las bases del robot, implementando las ruedas y motores, junto con soportes diseñados para resistir impactos durante las primeras fases de desarrollo del prototipo. La documentación de esta fase se presenta en el archivo [**Presentación**](avance_1/Presentación.pdf). Las piezas se fabricaron mediante impresión 3D utilizando material PLA.
@@ -62,7 +60,7 @@ La carpeta [**avance_1**](avance_1) contiene los avances iniciales correspondien
 
 - **Prototipos iniciales**: Se desarrollaron dos prototipos, seleccionando el segundo para continuar con el desarrollo. Posteriormente se evaluarán mejoras adicionales según los requerimientos. A continuación se visualiza la imagen del cad utilizado para continuar con los avances del proyecto.
 
-<img src="img/11.jpeg" alt="Prototipo Inicial 1" width="400">
+<img src="img/11.jpeg" alt="Motor con Reductora" width="400">
 
 - **Código de movimiento**: Se implementó un programa para el control de movimiento de las ruedas, específicamente diseñado para los **motores DC** del prototipo seleccionado.
 
