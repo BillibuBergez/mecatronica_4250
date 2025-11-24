@@ -60,11 +60,10 @@ La carpeta [**avance_1**](avance_1) contiene los avances iniciales correspondien
 
 #### Contenido del avance
 
-- **Prototipos iniciales**: Se desarrollaron dos prototipos, seleccionando el segundo para continuar con el desarrollo. Posteriormente se evaluarán mejoras adicionales según los requerimientos.
+- **Prototipos iniciales**: Se desarrollaron dos prototipos, seleccionando el segundo para continuar con el desarrollo. Posteriormente se evaluarán mejoras adicionales según los requerimientos. A continuación se visualiza la imagen del cad utilizado para continuar con los avances del proyecto.
 
 <center>
 <img src="img/11.jpeg" alt="Prototipo Inicial 1" width="400">
-<img src="img/1.jpeg" alt="Prototipo Inicial 2" width="400">
 </center>
 
 - **Código de movimiento**: Se implementó un programa para el control de movimiento de las ruedas, específicamente diseñado para los **motores DC** del prototipo seleccionado.
