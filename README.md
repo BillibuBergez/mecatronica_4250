@@ -527,7 +527,7 @@ void loop()
 
 Bueno, como se mencionó al inicio del documento, acá se reordenan los documentos utilizados y obtenidos para que el usuario pueda utilizarlos o visualizar a libre disposición. Se presenta a continuación el resultadado del proceso, con su respectivo CAD e imagen real.
 
-
+<img src="img/1.jpeg" alt="Foto 1" width="300"><img src="img/2.jpeg" alt="Foto 2" width="300"> <img src="img/3.jpeg" alt="Foto 3" width="300">
 
 
 
