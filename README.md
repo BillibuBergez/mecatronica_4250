@@ -530,6 +530,8 @@ El código del robot para el controlador Arduino
 
 <hr>
 <details>
+<summary> <b>Código</b> </summary>
+  
 ```cpp
 // Robot Auto-Equilibrado
 #include <PID_v1.h>
@@ -695,6 +697,7 @@ void loop()
 ```
 </details>
 <hr>
+.
 
 
 
