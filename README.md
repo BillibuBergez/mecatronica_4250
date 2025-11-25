@@ -40,11 +40,13 @@ En este apartado se realiza un pequeño "resumen" de lo que se abordará en este
 ## Objetivos
 <p align="justify"> 
 El objetivo principal de este proyecto es el diseño y construcción de un robot autobalancín funcional. El núcleo del desafío consiste en implementar un controlador **PID (Proporcional-Integral-Derivativo)** para mantener el equilibrio dinámico del sistema.
-
+</p>
+<p align="justify">
 Para lograr este objetivo, se integrarán componentes mecatrónicos esenciales utilizando un microcontrolador **Arduino UNO** como unidad central de procesamiento. Este gestionará la lógica de control programada en C++ y la comunicación entre los sensores (encargados de medir la inclinación) y los actuadores (motores DC seleccionados para las ruedas). Además, el proyecto incluye el diseño de una **estética original y atractiva** como parte de los requerimientos.
-
+</p>
 Es importante definir que el alcance del proyecto se centra en la **integración exitosa de los componentes** y en la **demostración de un sistema de autobalanceo funcional**, priorizando esto sobre la optimización de la eficiencia o el rendimiento del diseño. Por lo tanto, aunque el prototipo pueda presentar ciertas ineficiencias, el objetivo principal radica en la aplicación práctica de los conceptos de control.
 
+<p align="justify">
 Todas las especificaciones y requerimientos de diseño se detallan en el documento [**Base**](base.pdf).
 </p>
 <hr>
