@@ -520,13 +520,13 @@ void loop()
 
 ## Prototipo y Descargas
 
-Bueno, como se mencionó al inicio del documento, acá se reordenan los documentos utilizados y obtenidos para que el usuario pueda utilizarlos o visualizar a libre disposición. Se presenta a continuación el resultadado del proceso, con su respectivo CAD e imagen real. 
+Bueno, como se mencionó al inicio del documento, acá se reordenan los documentos utilizados y obtenidos para que el usuario pueda utilizarlos o visualizar a libre disposición. Se presenta a continuación el resultadado del proceso, con su respectivo CAD e imagen real, los resultados en general se encuentran en la carpeta  [**Prototipo**](prototipo), donde se encuentran los cads del modelo, el código y los componentes electricos. Y además una carpeta donde se encuentra todo el material audivisual, tales como imagenes y fotos, en la carpeta [**Imagenes**](img)
 
 <img src="img/1.jpeg" alt="Foto 1" width="250"> <img src="img/2.jpeg" alt="Foto 2" width="250"> <img src="img/3.jpeg" alt="Foto 3" width="250">
 <img src="img/31.png" alt="Cad 1" width="300"> <img src="img/32.png" alt="Cad 2" width="300">
 
+El código del robot para el controlador Arduino, el cual se encuentra en la carpeta [**Código**](prototipo/codigo.ino), donde el archivo se llama literalmente "código". Este incorpora todo lo aprendido en el proceso de avances, tanto como el funcionamiento de las ruedas dado unos motores DC, la estabilización con el giroscopio y el equilibrio incorporado gracias al PID.
 
-El código del robot para el controlador Arduino, el cual se encuentra en la carpeta [**Código**](prototipo), donde el archivo se llama literalmente "código". Este incorpora todo lo aprendido en el proceso de avances, tanto como el funcionamiento de las ruedas dado unos motores DC, la estabilización con el giroscopio y el equilibrio incorporado gracias al PID.
 
 <hr>
 <details>
