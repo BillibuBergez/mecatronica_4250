@@ -27,6 +27,7 @@
   - [Avance 2](#avance-2)
   - [Avance 3](#avance-3)
 - [Prototipo](#prototipo)
+- [Conclusión](#conclusión)
 
 <hr>
 
@@ -59,19 +60,15 @@ Esta sección de avances va mostrando los distintos avances cronologicos que se 
 
 ### Avance 1
 
-<p align="justify"> 
 La carpeta [**avance_1**](avance_1) contiene los avances iniciales correspondientes a la primera presentación. En esta etapa se establecieron las bases del robot, implementando las ruedas y motores, junto con soportes diseñados para resistir impactos durante las primeras fases de desarrollo del prototipo. La documentación de esta fase se presenta en el archivo [**Presentación**](avance_1/Presentación.pdf). Las piezas se fabricaron mediante impresión 3D utilizando material PLA.
-</p>
 
 #### Contenido del avance
 
-<p align="justify"> 
 - **Prototipos iniciales**: Se desarrollaron dos prototipos, seleccionando el segundo para continuar con el desarrollo. Posteriormente se evaluarán mejoras adicionales según los requerimientos. A continuación se visualiza la imagen del cad utilizado para continuar con los avances del proyecto.
 
 <img src="img/11.jpeg" alt="Motor con Reductora" width="400">
 
 - **Código de movimiento**: Se implementó un programa para el control de movimiento de las ruedas, específicamente diseñado para los **motores DC** del prototipo seleccionado.
-</p>
 
 <hr>
 <details>
@@ -710,6 +707,6 @@ void loop()
 
 ## Conclusión
 
-El desarrollo de este robot auto-balancín permitió validar la aplicación práctica de la teoría de control en un sistema mecatrónico real. A pesar de los desafíos encontrados, como la necesidad de reemplazar el microcontrolador por uno de mayor capacidad (Arduino Mega) y el proceso iterativo de sintonización del PID, se logró un https://www.google.com/search?q=prototipo capaz de mantener el equilibrio de forma autónoma.
+El desarrollo de este robot auto-balancín permitió validar la aplicación práctica de la teoría de control en un sistema mecatrónico real. A pesar de los desafíos encontrados, como la necesidad de reemplazar el microcontrolador por uno de mayor capacidad (Arduino Mega) y el proceso iterativo de sintonización del PID, se logró un robot auto-balancin capaz de mantener el equilibrio de forma autónoma.
 
 El diseño inspirado en el personaje Guido aportó un valor estético diferenciador sin comprometer la funcionalidad mecánica. Como trabajo futuro, se sugiere la implementación de un sistema de alimentación más robusto (BMS) y la optimización del código para mejorar la velocidad de respuesta ante perturbaciones externas.
