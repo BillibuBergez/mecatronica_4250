@@ -32,12 +32,13 @@
 
 ## Descripción
 
+<p align="justify"> 
 En este apartado se realiza un pequeño "resumen" de lo que se abordará en este repositorio y los distintos apartados. Entre ellos se plantea inicialmente lo que es nuestro proyecto y los objetivos de él durante el desarrollo de él, posteriormente un apartado de todos los avances y las distintas entregas que se realizaron durante el transcurso del curso, ordenados de un inicio hasta obtener el prototipo completo, donde finalmente hay un apartado donde efectivamente ya está el rpototipo completo, donde se señalan las carpetas ordenadas de los distintos apartados, como los componetnes elctricos, los CAD y los códigos.
-
+</p>
 <hr>
 
 ## Objetivos
-
+<p align="justify"> 
 El objetivo principal de este proyecto es el diseño y construcción de un robot autobalancín funcional. El núcleo del desafío consiste en implementar un controlador **PID (Proporcional-Integral-Derivativo)** para mantener el equilibrio dinámico del sistema.
 
 Para lograr este objetivo, se integrarán componentes mecatrónicos esenciales utilizando un microcontrolador **Arduino UNO** como unidad central de procesamiento. Este gestionará la lógica de control programada en C++ y la comunicación entre los sensores (encargados de medir la inclinación) y los actuadores (motores DC seleccionados para las ruedas). Además, el proyecto incluye el diseño de una **estética original y atractiva** como parte de los requerimientos.
@@ -45,24 +46,30 @@ Para lograr este objetivo, se integrarán componentes mecatrónicos esenciales u
 Es importante definir que el alcance del proyecto se centra en la **integración exitosa de los componentes** y en la **demostración de un sistema de autobalanceo funcional**, priorizando esto sobre la optimización de la eficiencia o el rendimiento del diseño. Por lo tanto, aunque el prototipo pueda presentar ciertas ineficiencias, el objetivo principal radica en la aplicación práctica de los conceptos de control.
 
 Todas las especificaciones y requerimientos de diseño se detallan en el documento [**Base**](base.pdf).
-
+</p>
 <hr>
 
 ## Avances
 
+<p align="justify"> 
 Esta sección de avances va mostrando los distintos avances cronologicos que se desarrollan en el curso hasta llegar al prototipo final que corresponde a la última sección de este informe o repositorio.
+</p>
 
 ### Avance 1
 
+<p align="justify"> 
 La carpeta [**avance_1**](avance_1) contiene los avances iniciales correspondientes a la primera presentación. En esta etapa se establecieron las bases del robot, implementando las ruedas y motores, junto con soportes diseñados para resistir impactos durante las primeras fases de desarrollo del prototipo. La documentación de esta fase se presenta en el archivo [**Presentación**](avance_1/Presentación.pdf). Las piezas se fabricaron mediante impresión 3D utilizando material PLA.
+</p>
 
 #### Contenido del avance
 
+<p align="justify"> 
 - **Prototipos iniciales**: Se desarrollaron dos prototipos, seleccionando el segundo para continuar con el desarrollo. Posteriormente se evaluarán mejoras adicionales según los requerimientos. A continuación se visualiza la imagen del cad utilizado para continuar con los avances del proyecto.
 
 <img src="img/11.jpeg" alt="Motor con Reductora" width="400">
 
 - **Código de movimiento**: Se implementó un programa para el control de movimiento de las ruedas, específicamente diseñado para los **motores DC** del prototipo seleccionado.
+</p>
 
 <hr>
 <details>
@@ -107,9 +114,11 @@ void loop() {
 
 #### Observaciones
 
+<p align="justify"> 
 - **Material de las ruedas**: Se recomienda implementar un material rugoso para mejorar la tracción
 - **Refuerzos estructurales**: Es necesario añadir soportes en zonas críticas susceptibles a daños por impactos
 - **Optimización del motor**: Se propone utilizar el motorreductor amarillo por su ligereza y favorable relación torque/velocidad angular
+</p>
 
 <img src="img/reductora.jpg" alt="Motor con Reductora" width="400">
 
