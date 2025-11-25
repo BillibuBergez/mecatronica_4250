@@ -26,7 +26,7 @@
   - [Avance 1](#avance-1)
   - [Avance 2](#avance-2)
   - [Avance 3](#avance-3)
-- [Prototipo y Descargas](#prototipo-y-descargas)
+- [Prototipo](#prototipo)
 
 <hr>
 
@@ -518,7 +518,7 @@ void loop()
 </details>
 <hr>
 
-## Prototipo y Descargas
+## Prototipo
 
 Bueno, como se mencionó al inicio del documento, acá se reordenan los documentos utilizados y obtenidos para que el usuario pueda utilizarlos o visualizar a libre disposición. Se presenta a continuación el resultadado del proceso, con su respectivo CAD e imagen real, los resultados en general se encuentran en la carpeta  [**Prototipo**](prototipo), donde se encuentran los cads del modelo, el código y los componentes electricos. Y además una carpeta donde se encuentra todo el material audivisual, tales como imagenes y fotos, en la carpeta [**Imagenes**](img)
 
@@ -526,7 +526,6 @@ Bueno, como se mencionó al inicio del documento, acá se reordenan los document
 <img src="img/31.png" alt="Cad 1" width="300"> <img src="img/32.png" alt="Cad 2" width="300">
 
 El código del robot para el controlador Arduino, el cual se encuentra en la carpeta [**Código**](prototipo/codigo.ino), donde el archivo se llama literalmente "código". Este incorpora todo lo aprendido en el proceso de avances, tanto como el funcionamiento de las ruedas dado unos motores DC, la estabilización con el giroscopio y el equilibrio incorporado gracias al PID.
-
 
 <hr>
 <details>
@@ -697,4 +696,9 @@ void loop()
 ```
 </details>
 <hr>
-.
+
+## Conclusión
+
+El desarrollo de este robot auto-balancín permitió validar la aplicación práctica de la teoría de control en un sistema mecatrónico real. A pesar de los desafíos encontrados, como la necesidad de reemplazar el microcontrolador por uno de mayor capacidad (Arduino Mega) y el proceso iterativo de sintonización del PID, se logró un https://www.google.com/search?q=prototipo capaz de mantener el equilibrio de forma autónoma.
+
+El diseño inspirado en el personaje Guido aportó un valor estético diferenciador sin comprometer la funcionalidad mecánica. Como trabajo futuro, se sugiere la implementación de un sistema de alimentación más robusto (BMS) y la optimización del código para mejorar la velocidad de respuesta ante perturbaciones externas.
